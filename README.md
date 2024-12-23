@@ -45,7 +45,7 @@ MESL最近优惠码，Christmas 欢庆圣诞，温暖相伴，全场85折优惠�
 | 50G    | 按年付  | 55.00  | 50 GB   | 5      |
 | 100G   | 按季付  | 72.00  | 100 GB  | 5      |
 
-[![MESL机场套餐价格](mesl_20241223_094331.png)](https://xuv.cc/out/wm)
+[![MESL机场套餐价格](mesl_20241223_094331.png)](https://xuv.cc/out/ml)
 
 ## MESL机场机场测速
 
