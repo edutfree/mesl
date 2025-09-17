@@ -1,8 +1,12 @@
-# MESL官网地址 + 优惠码更新...
+# MESL官网最新直连地址
 
 永久官网：[https://in.mesl.cloud](https://xuv.cc/out/ml)
 
-直连地址1：[https://cdn.meslcloud.com](https://cdn.meslcloud.com/#/register?code=PrDktdg6)
+直连地址1：[https://cdn1.meslcloud.com](https://cdn1.meslcloud.com/#/register?code=PrDktdg6)
+
+直连地址2：[https://cdn2.meslcloud.com](https://cdn2.meslcloud.com/#/register?code=PrDktdg6)
+
+直连地址3：[https://mesl.edge.cloudanys.com](https://mesl.edge.cloudanys.com/#/register?code=PrDktdg6)
 
 > MESL 是一家创立于2022年，老牌稳定加速器。Shadowsocks协议，国内入口有多线 BGP 机房，IEPL 专线数据传输，可稳定解锁 Netflix、Disney+ 以及 ChatGPT。线路比较丰富，流媒体解锁不错，阿里电信移动等入口。
 
@@ -52,7 +56,3 @@ MESL最近优惠码，Christmas 欢庆圣诞，温暖相伴，全场85折优惠�
 ## MESL测速
 
 [![MESL测速参考MESL-SpeedTest](mesl_20241223_092442.png)](https://xuv.cc/out/ml)
-
-## MESL跑路了吗？
-
-目前MESL没有跑路，注意控制充值时长，防范风险即可。
