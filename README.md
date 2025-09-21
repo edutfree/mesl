@@ -8,6 +8,14 @@
 
 直连地址3：[https://mesl.edge.cloudanys.com](https://mesl.edge.cloudanys.com/#/register?code=PrDktdg6)
 
+---
+
+**温馨提示：任何服务均有跑路风险，请自行注意防范！**
+
+**本页面仅分享网络信息，不做推荐，有问题请自行联系服务商处理！**
+
+---
+
 > MESL 是一家创立于2022年，老牌稳定加速器。Shadowsocks协议，国内入口有多线 BGP 机房，IEPL 专线数据传输，可稳定解锁 Netflix、Disney+ 以及 ChatGPT。线路比较丰富，流媒体解锁不错，阿里电信移动等入口。
 
 ## MESL怎么样？
@@ -56,3 +64,11 @@ MESL最近优惠码，Christmas 欢庆圣诞，温暖相伴，全场85折优惠�
 ## MESL测速
 
 [![MESL测速参考MESL-SpeedTest](mesl_20241223_092442.png)](https://xuv.cc/out/ml)
+
+---
+
+**温馨提示：任何服务均有跑路风险，请自行注意防范！**
+
+**本页面仅分享网络信息，不做推荐，有问题请自行联系服务商处理！**
+
+---
